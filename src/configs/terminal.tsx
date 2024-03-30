@@ -13,8 +13,8 @@ const terminal: TerminalData[] = [
         content: (
           <div className="py-1">
             <div>
-              Hi, this is Xiaohan Zou. I am a PhD student at the Computer Science and
-              Engineering department of Pennsylvania State University.
+              Hi, this is Mathangy K. I am a prefinal year CSE Student at SRM Institute of
+              Science and Technology.
             </div>
           </div>
         )
@@ -23,14 +23,15 @@ const terminal: TerminalData[] = [
         id: "about-interests",
         title: "interests.txt",
         type: "file",
-        content: "Machine Learning / Computer Vision / Multimodal Learning"
+        content:
+          "App development / Machine Learning / Large Language Models / Web Development / DSA"
       },
       {
         id: "about-who-cares",
         title: "who-cares.txt",
         type: "file",
         content:
-          "I'm looking for a research internship for Summer 2024. I'm open to collaboration on research projects."
+          "I'm looking for full time Software Engineer Roles. I'm open to collaboration on research projects."
       },
       {
         id: "about-contact",
@@ -42,25 +43,25 @@ const terminal: TerminalData[] = [
               Email:{" "}
               <a
                 className="text-blue-300"
-                href="mailto:renovamenzxh@gmail.com"
+                href="mailto:mathangy.dev@gmail.com"
                 target="_blank"
                 rel="noreferrer"
               >
-                renovamenzxh@gmail.com
+                mathangy.dev@gmail.com
               </a>
             </li>
             <li>
               Github:{" "}
               <a
                 className="text-blue-300"
-                href="https://github.com/Renovamen"
+                href="https://github.com/mkswagger"
                 target="_blank"
                 rel="noreferrer"
               >
-                @Renovamen
+                @mkswagger
               </a>
             </li>
-            <li>
+            {/* <li>
               <a
                 className="text-blue-300"
                 href="https://scholar.google.com/citations?user=RuW6xgMAAAAJ"
@@ -69,16 +70,16 @@ const terminal: TerminalData[] = [
               >
                 Google Scholar
               </a>
-            </li>
+            </li> */}
             <li>
               Linkedin:{" "}
               <a
                 className="text-blue-300"
-                href="https://www.linkedin.com/in/xiaohan-zou"
+                href="https://www.linkedin.com/in/mathangy-k/"
                 target="_blank"
                 rel="noreferrer"
               >
-                xiaohan-zou
+                mathangy-k
               </a>
             </li>
             <li>
@@ -92,7 +93,7 @@ const terminal: TerminalData[] = [
                 https://zxh.io
               </a>
             </li>
-            <li>
+            {/* <li>
               知乎:{" "}
               <a
                 className="text-blue-300"
@@ -102,7 +103,7 @@ const terminal: TerminalData[] = [
               >
                 @西伯利亚大恶龙
               </a>
-            </li>
+            </li> */}
           </ul>
         )
       }
