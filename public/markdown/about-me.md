@@ -2,7 +2,7 @@
 
 ## Biography
 
-Hey there! I am a Undergrad prefinal year CSE Student at the [Computer Science and Engineering](https://www.srmist.edu.in).
+Hey there! I am a Undergrad prefinal year CSE Student at the [SRM IST , Kattangulathur](https://www.srmist.edu.in).
 I love coding and solving real world problems by building applications.
 
 I specialise in iOS App development, Machine Learning and Software Development.
